@@ -70,17 +70,17 @@
         "imgURL": "https://www.ovh.com/blog/wp-content/uploads/2020/04/logo-square.png"
     },
     {
-        "id": 10,
+        "id": 15,
         "name": "Amazon",
         "imgURL": "https://www.thegamingeconomy.com/files/2019/07/amazon_square_logo.png"
     },
     {
-        "id": 10,
+        "id": 16,
         "name": "Discord",
         "imgURL": "https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png"
     },
     {
-        "id": 10,
+        "id": 17,
         "name": "Synology",
         "imgURL": "https://play-lh.googleusercontent.com/HjbYWbXJ-6e6Cia-mBbHDSdontW1yE6MHMaXqlHW80CQegDOEPQ1HGACxvEpnqCUHgo=s360"
     },
@@ -90,17 +90,17 @@
         "imgURL": "https://firebounty.com/image/775-matomo"
     },
     {
-        "id": 16,
+        "id": 18,
         "name": "Github",
         "imgURL": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png"
     },
     {
-        "id": 17,
+        "id": 19,
         "name": "Mailchimp",
         "imgURL": "https://www.drupal.org/files/project-images/MC_Logo.jpg"
     },
     {
-        "id": 18,
+        "id": 20,
         "name": "Mega",
         "imgURL": "https://play-lh.googleusercontent.com/LPje8jSAa7MHJt4xaJUXn-aYy7LfFyKbc0HJuuf3c5__k7_9DbOJkwlVHvrdQ--kDvYp"
     }
