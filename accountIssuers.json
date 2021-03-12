@@ -103,5 +103,10 @@
         "id": 21,
         "name": "Mega",
         "imgURL": "https://play-lh.googleusercontent.com/LPje8jSAa7MHJt4xaJUXn-aYy7LfFyKbc0HJuuf3c5__k7_9DbOJkwlVHvrdQ--kDvYp"
+    },
+    {
+        "id": 22,
+        "name": "Porkbun",
+        "imgURL": "https://porkbun.com/images/team-porkbun.jpg"
     }
 ]
