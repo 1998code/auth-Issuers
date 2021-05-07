@@ -113,5 +113,10 @@
         "id": 23,
         "name": "Grammarly",
         "imgURL": "https://www.grammarly.com/press/media-resources/docs/icon-grammarly.png"
+    },
+    {
+        "id": 24,
+        "name": "Google",
+        "imgURL": "https://freepngimg.com/thumb/google/66893-guava-logo-google-plus-suite-png-image-high-quality.png"
     }
 ]
