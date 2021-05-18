@@ -118,5 +118,15 @@
         "id": 24,
         "name": "Google",
         "imgURL": "https://freepngimg.com/thumb/google/66893-guava-logo-google-plus-suite-png-image-high-quality.png"
+    },
+    {
+        "id": 25,
+        "name": "DropboxPartners",
+        "imgURL": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/dropbox-512.png"
+    },
+    {
+        "id": 26,
+        "name": "Apple",
+        "imgURL": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png"
     }
 ]
